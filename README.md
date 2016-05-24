@@ -16,7 +16,7 @@
 - Mã nguồn: https://github.com/INT22083-Testing/Project_TeamTesting_Dairy
 - Trang quản lý công việc: https://www.pivotaltracker.com/n/projects/1555849
 - Trang demo: https://boiling-refuge-17111.herokuapp.com/
-###kết quả test:
+###Kết quả test:
 - 5 scenarios (5 passed)
 - 43 steps (43 passed)
 - 0m2.452s
