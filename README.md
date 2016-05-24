@@ -24,7 +24,7 @@
 - Coverage report generated for Cucumber Features to /home/ubuntu/workspace/demo2/coverage. 165 / 193 LOC (85.49%) covered.
 
 ###Mô tả sản phẩm:
- - Nhatkyonline là dự án thiết kế và xây dựng với mục đích tạo diễn đàn nơi mà mọi người có thể chia sẻ cảm súc, suy nghĩ, tâm tư, tình cảm của mình.
+ - Nhatkyonline là dự án thiết kế và xây dựng với mục đích tạo diễn đàn nơi mà mọi người có thể chia sẻ cảm súc, suy nghĩ, tâm tư, tình cảm của mình. 
 
 ###Mô tả chức năng:
 Nhatkyonline là dự án thiết kế và xây dựng một diễn đàn sử dụng ROR framework với các chức năng cơ bản:
